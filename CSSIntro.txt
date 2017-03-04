@@ -1,0 +1,16 @@
+CSS Intro
+
+https://www.w3schools.com/css/css_intro.asp
+An introduction to CSS with a tutorial.
+
+https://material.io/guidelines/
+Google's principles of good design.
+
+http://materializecss.com/
+Stylesheets and examples you can use to incorporate material design.
+
+https://www.ebrpl.com/digitallibrary/
+Click A-Z link to list all.  Lynda.com and Safari Tech Books Online are some of the resources available.
+
+https://www.lynda.com/CSS-tutorials/CSS-Fundamentals/417645-2.html
+A nice tutorial on CSS.
